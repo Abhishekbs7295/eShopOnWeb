@@ -9,7 +9,7 @@ env:
   LOCATION: centralindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 9f2fb2b0-848a-48e7-a526-1d638b84a0d5
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  WEBAPP-NAME: abhishekbs7295-webapp-NAME
 
 
 jobs:
